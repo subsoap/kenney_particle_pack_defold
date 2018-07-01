@@ -19,4 +19,44 @@ collection_instances {
     z: 1.0
   }
 }
+collection_instances {
+  id: "aura_2"
+  collection: "/example/assets/particlefx/aura/aura_2.collection"
+  position {
+    x: 801.0
+    y: 134.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+collection_instances {
+  id: "aura_3"
+  collection: "/example/assets/particlefx/aura/aura_3.collection"
+  position {
+    x: 178.0
+    y: 391.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 5.0
+    y: 5.0
+    z: 5.0
+  }
+}
 scale_along_z: 0

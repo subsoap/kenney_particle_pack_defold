@@ -1,5 +1,9 @@
 function init(self)
 	go.animate(".", "euler.z", go.PLAYBACK_LOOP_FORWARD, 360, go.EASING_LINEAR, 10)
+	go.set("#sprite", "tint", vmath.vector4(1.0,0.5,0.9,1.0))
+	go.animate("#sprite", "tint.w", go.PLAYBACK_LOOP_PINGPONG, 0.3, go.EASING_INOUTSINE, 3)
+	go.animate("#sprite", "tint.y", go.PLAYBACK_LOOP_PINGPONG, 0.3, go.EASING_INOUTSINE, 2)
+	go.animate("#sprite", "tint.x", go.PLAYBACK_LOOP_PINGPONG, 0.7, go.EASING_INOUTSINE, 4)
 end
 
 function final(self)
