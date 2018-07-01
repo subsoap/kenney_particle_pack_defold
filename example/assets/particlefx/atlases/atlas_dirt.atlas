@@ -1,0 +1,48 @@
+images {
+  image: "/example/assets/kenney/particle_pack/dirt_01.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/dirt_02.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/dirt_03.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/symbol_01.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/symbol_02.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/trace_01.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/trace_02.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/trace_03.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/trace_04.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/trace_05.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/trace_06.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/trace_07.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/twirl_01.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/twirl_02.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/twirl_03.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0

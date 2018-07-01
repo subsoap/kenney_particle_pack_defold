@@ -1,0 +1,51 @@
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/flame_05_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/flame_06_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/muzzle_01_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/muzzle_02_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/muzzle_03_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/muzzle_04_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/muzzle_05_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/spark_05_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/spark_06_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/trace_01_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/trace_02_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/trace_03_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/trace_04_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/trace_05_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/trace_06_rotated.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/Rotated/trace_07_rotated.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0

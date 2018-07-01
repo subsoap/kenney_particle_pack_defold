@@ -1,0 +1,27 @@
+images {
+  image: "/example/assets/kenney/particle_pack/scorch_01.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/scorch_02.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/scorch_03.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/scratch_01.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/slash_01.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/slash_02.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/slash_03.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/slash_04.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0

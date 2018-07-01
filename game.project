@@ -1,0 +1,16 @@
+[bootstrap]
+main_collection = /example/main.collectionc
+render = /example/render/default.renderc
+
+[script]
+shared_state = 1
+
+[project]
+title = Particle Pack
+
+[library]
+include_dirs = 
+
+[input]
+game_binding = /example/input/game.input_bindingc
+

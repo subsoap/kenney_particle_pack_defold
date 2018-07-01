@@ -1,0 +1,51 @@
+images {
+  image: "/example/assets/kenney/particle_pack/spark_01.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/spark_02.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/spark_03.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/spark_04.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/spark_05.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/spark_06.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/spark_07.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/star_01.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/star_02.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/star_03.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/star_04.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/star_05.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/star_06.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/star_07.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/star_08.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/star_09.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0

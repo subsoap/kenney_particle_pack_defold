@@ -1,0 +1,18 @@
+images {
+  image: "/example/assets/kenney/particle_pack/muzzle_01.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/muzzle_02.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/muzzle_03.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/muzzle_04.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/muzzle_05.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0

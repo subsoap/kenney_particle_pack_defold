@@ -1,0 +1,45 @@
+images {
+  image: "/example/assets/kenney/particle_pack/smoke_01.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/smoke_02.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/smoke_03.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/smoke_04.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/smoke_05.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/smoke_06.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/smoke_07.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/smoke_08.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/smoke_09.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/smoke_10.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/window_01.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/window_02.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/window_03.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/window_04.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0

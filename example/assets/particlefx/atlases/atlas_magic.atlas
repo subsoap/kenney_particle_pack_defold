@@ -1,0 +1,18 @@
+images {
+  image: "/example/assets/kenney/particle_pack/magic_01.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/magic_02.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/magic_03.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/magic_04.png"
+}
+images {
+  image: "/example/assets/kenney/particle_pack/magic_05.png"
+}
+margin: 0
+extrude_borders: 0
+inner_padding: 0
