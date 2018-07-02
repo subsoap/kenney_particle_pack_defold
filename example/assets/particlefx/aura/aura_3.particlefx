@@ -783,7 +783,7 @@ emitters {
   animation: "star_06"
   material: "/builtins/materials/particlefx.material"
   blend_mode: BLEND_MODE_ADD
-  particle_orientation: PARTICLE_ORIENTATION_DEFAULT
+  particle_orientation: PARTICLE_ORIENTATION_MOVEMENT_DIRECTION
   inherit_velocity: 0.0
   max_particle_count: 128
   type: EMITTER_TYPE_CIRCLE
@@ -916,6 +916,7 @@ emitters {
       t_x: 1.0
       t_y: 0.0
     }
+    spread: 0.0
   }
   properties {
     key: EMITTER_KEY_PARTICLE_STRETCH_FACTOR_Y
@@ -1027,6 +1028,6 @@ emitters {
   size_mode: SIZE_MODE_MANUAL
   start_delay_spread: 0.0
   duration_spread: 0.0
-  stretch_with_velocity: false
+  stretch_with_velocity: true
   start_offset: 0.0
 }
