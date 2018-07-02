@@ -263,7 +263,7 @@ emitters {
   id: "emitter1"
   mode: PLAY_MODE_LOOP
   duration: 1.0
-  space: EMISSION_SPACE_WORLD
+  space: EMISSION_SPACE_EMITTER
   position {
     x: 0.0
     y: 0.0
@@ -486,7 +486,7 @@ emitters {
   id: "emitter2"
   mode: PLAY_MODE_LOOP
   duration: 1.0
-  space: EMISSION_SPACE_WORLD
+  space: EMISSION_SPACE_EMITTER
   position {
     x: 0.0
     y: 0.0
@@ -783,7 +783,7 @@ emitters {
       key: MODIFIER_KEY_MAGNITUDE
       points {
         x: 0.0
-        y: 10.0
+        y: 1.0
         t_x: 1.0
         t_y: 0.0
       }

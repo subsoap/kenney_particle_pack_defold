@@ -2,6 +2,7 @@ name: "default"
 scale_along_z: 0
 embedded_instances {
   id: "_root"
+  children: "spinner_"
   children: "spinner_2"
   data: ""
   position {
@@ -24,9 +25,59 @@ embedded_instances {
 embedded_instances {
   id: "spinner_2"
   children: "go1"
+  data: ""
+  position {
+    x: -135.0
+    y: 72.778
+    z: 275.285
+  }
+  rotation {
+    x: 0.64278764
+    y: 0.0
+    z: 0.0
+    w: 0.76604444
+  }
+  scale3 {
+    x: 30.0
+    y: 30.0
+    z: 30.0
+  }
+}
+embedded_instances {
+  id: "go1"
   data: "components {\n"
+  "  id: \"aura_2\"\n"
+  "  component: \"/example/assets/particlefx/aura/aura_2.particlefx\"\n"
+  "  position {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "  }\n"
+  "  rotation {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "    w: 1.0\n"
+  "  }\n"
+  "}\n"
+  "components {\n"
+  "  id: \"particlefx_play\"\n"
+  "  component: \"/example/assets/particlefx/particlefx_play.script\"\n"
+  "  position {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "  }\n"
+  "  rotation {\n"
+  "    x: 0.0\n"
+  "    y: 0.0\n"
+  "    z: 0.0\n"
+  "    w: 1.0\n"
+  "  }\n"
+  "}\n"
+  "components {\n"
   "  id: \"spinner\"\n"
-  "  component: \"/example/assets/particlefx/aura/spinner_rad.script\"\n"
+  "  component: \"/example/assets/particlefx/aura/spinner.script\"\n"
   "  position {\n"
   "    x: 0.0\n"
   "    y: 0.0\n"
@@ -41,8 +92,29 @@ embedded_instances {
   "}\n"
   ""
   position {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+  }
+  rotation {
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  }
+  scale3 {
+    x: 1.0
+    y: 1.0
+    z: 1.0
+  }
+}
+embedded_instances {
+  id: "spinner_"
+  children: "go"
+  data: ""
+  position {
     x: -135.0
-    y: 243.778
+    y: 79.778
     z: 275.285
   }
   rotation {
@@ -58,7 +130,7 @@ embedded_instances {
   }
 }
 embedded_instances {
-  id: "go1"
+  id: "go"
   data: "components {\n"
   "  id: \"aura_2\"\n"
   "  component: \"/example/assets/particlefx/aura/aura_2.particlefx\"\n"
