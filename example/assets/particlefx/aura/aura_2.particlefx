@@ -16,7 +16,7 @@ emitters {
   }
   tile_source: "/example/assets/particlefx/atlases/atlas_circle.atlas"
   animation: "circle_01"
-  material: "/builtins/materials/particlefx.material"
+  material: "/example/assets/material/particlefx_nomipmap.material"
   blend_mode: BLEND_MODE_ADD
   particle_orientation: PARTICLE_ORIENTATION_DEFAULT
   inherit_velocity: 0.0
@@ -277,7 +277,7 @@ emitters {
   }
   tile_source: "/example/assets/particlefx/atlases/atlas_scorch.atlas"
   animation: "scorch_03"
-  material: "/builtins/materials/particlefx.material"
+  material: "/example/assets/material/particlefx_nomipmap.material"
   blend_mode: BLEND_MODE_ADD
   particle_orientation: PARTICLE_ORIENTATION_DEFAULT
   inherit_velocity: 0.0
@@ -500,7 +500,7 @@ emitters {
   }
   tile_source: "/example/assets/particlefx/atlases/atlas_star.atlas"
   animation: "star_06"
-  material: "/builtins/materials/particlefx.material"
+  material: "/example/assets/material/particlefx_nomipmap.material"
   blend_mode: BLEND_MODE_ADD
   particle_orientation: PARTICLE_ORIENTATION_DEFAULT
   inherit_velocity: 0.0

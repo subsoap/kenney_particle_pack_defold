@@ -65,7 +65,7 @@ embedded_instances {
   "  type: \"sprite\"\n"
   "  data: \"tile_set: \\\"/example/assets/particlefx/atlases/atlas_magic.atlas\\\"\\n"
   "default_animation: \\\"magic_02\\\"\\n"
-  "material: \\\"/builtins/materials/sprite.material\\\"\\n"
+  "material: \\\"/example/assets/material/sprite_nomipmap.material\\\"\\n"
   "blend_mode: BLEND_MODE_ADD\\n"
   "\"\n"
   "  position {\n"
