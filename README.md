@@ -11,3 +11,7 @@ Click and drag to pan around. Scroll wheel to zoom. Spacebar to reset view/zoom.
 Particles with more modifiers can be more expensive.
 
 Some of the particles with modifiers are broken in engine due to an engine bug. Once the modifier bug is fixed in engine they should look like. For now inspect them in the editor or zoom in on them.
+
+Some of the textures in the Kenney Particle Pack have issues with their edges not being blended to black properly so may require you to do so to use.
+
+Do not use the atlases in this example directly, put the textures you want to use in a new atlas instead.

@@ -1,0 +1,37 @@
+function init(self)
+	self.text_node = gui.get_node("text")
+	self.x = 0
+	self.y = 0
+	self.zoom = 1
+end
+
+function final(self)
+	-- Add finalization code here
+	-- Remove this function if not needed
+end
+
+function update(self, dt)
+	local text = self.x .. "," .. self.y .. "\n" .. self.zoom .. "\n"
+	
+	gui.set_text(self.text_node, text)
+end
+
+function on_message(self, message_id, message, sender)
+	if message_id == hash("position") then
+		self.x = message.x - (960/2)
+		self.y = message.y - (640/2)
+	end
+	if message_id == hash("zoom") then
+		self.zoom = message.zoom
+	end	
+end
+
+function on_input(self, action_id, action)
+	-- Add input-handling code here
+	-- Remove this function if not needed
+end
+
+function on_reload(self)
+	-- Add input-handling code here
+	-- Remove this function if not needed
+end
