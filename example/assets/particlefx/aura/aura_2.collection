@@ -27,9 +27,9 @@ embedded_instances {
   children: "go1"
   data: ""
   position {
-    x: -135.0
-    y: 72.778
-    z: 275.285
+    x: 0.0
+    y: 0.0
+    z: 0.0
   }
   rotation {
     x: 0.64278764
@@ -38,9 +38,9 @@ embedded_instances {
     w: 0.76604444
   }
   scale3 {
-    x: 30.0
-    y: 30.0
-    z: 30.0
+    x: 1.0
+    y: 1.0
+    z: 1.0
   }
 }
 embedded_instances {
@@ -113,9 +113,9 @@ embedded_instances {
   children: "go"
   data: ""
   position {
-    x: -135.0
-    y: 79.778
-    z: 275.285
+    x: 0.0
+    y: 0.0
+    z: 0.0
   }
   rotation {
     x: 0.0
@@ -124,9 +124,9 @@ embedded_instances {
     w: 1.0
   }
   scale3 {
-    x: 30.0
-    y: 30.0
-    z: 30.0
+    x: 1.0
+    y: 1.0
+    z: 1.0
   }
 }
 embedded_instances {

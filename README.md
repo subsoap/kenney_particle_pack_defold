@@ -7,3 +7,7 @@ If you use these you should move the sprites of each .particlefx to their own .a
 Particles / sprites which are tilted too much away from the camera need to have mipmaps disabled to keep texture clarity. There are provided material examples for this.
 
 Click and drag to pan around. Scroll wheel to zoom. Spacebar to reset view/zoom.
+
+Particles with more modifiers can be more expensive.
+
+Some of the particles with modifiers are broken in engine due to an engine bug. Once the modifier bug is fixed in engine they should look like. For now inspect them in the editor or zoom in on them.
