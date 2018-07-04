@@ -1,3 +1,5 @@
+local camera = require "orthographic.camera"
+
 function init(self)
 	self.id = go.get_id("/camera")
 	self.position = go.get_position(self.id)
