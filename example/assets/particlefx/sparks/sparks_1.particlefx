@@ -5,7 +5,7 @@ emitters {
   space: EMISSION_SPACE_WORLD
   position {
     x: 0.0
-    y: 0.0
+    y: 1.0
     z: 0.0
   }
   rotation {
@@ -27,11 +27,11 @@ emitters {
     key: EMITTER_KEY_SPAWN_RATE
     points {
       x: 0.0
-      y: 50.0
+      y: 4.0
       t_x: 1.0
       t_y: 0.0
     }
-    spread: 0.0
+    spread: 30.0
   }
   properties {
     key: EMITTER_KEY_SIZE_X
@@ -233,7 +233,7 @@ emitters {
     }
     points {
       x: 0.11320755
-      y: 0.99277455
+      y: 1.6654203
       t_x: 0.99418455
       t_y: 0.10768964
     }
@@ -282,7 +282,7 @@ emitters {
     use_direction: 0
     position {
       x: 0.0
-      y: 0.0
+      y: 7.0
       z: 0.0
     }
     rotation {
@@ -295,7 +295,7 @@ emitters {
       key: MODIFIER_KEY_MAGNITUDE
       points {
         x: 0.0
-        y: -600.0
+        y: -440.0
         t_x: 1.0
         t_y: 0.0
       }
